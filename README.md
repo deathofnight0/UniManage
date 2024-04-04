@@ -60,6 +60,7 @@ UniManage is a comprehensive University Management System built with Java and My
 2. **Dashboard**:
     - Navigate through various modules from the main dashboard.
     - Add, Update, View, or Delete records as per the selected module.
+    - Press `TAB` after entering pincode in input fields to automatically fill the City & State details.
 
 <br>
 
