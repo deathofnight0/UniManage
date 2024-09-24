@@ -36,7 +36,7 @@ UniManage is a comprehensive University Management System built with Java and My
   
 2. **Clone the repository**:
      ```bash
-     git clone https://github.com/deathofnight55/UniManage.git
+     git clone https://github.com/deathofnight0/UniManage.git
     
 
 3. **Setup the MySQL Database**:
